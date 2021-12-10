@@ -36,7 +36,6 @@ ul{
     padding: 0;
     margin: 0 0 0 150px;
     list-style: none;
-    color: orange;
 	float: right;
     
 }
@@ -108,7 +107,6 @@ nav a:hover{
 
  #hqr
  {
-     margin: 30px;
      text-align: center;
      grid-column: 1/3;
  }
@@ -120,3 +118,10 @@ nav a:hover{
  .dropdown-content{
      font-size: 9px;
  }
+
+
+
+ #references{
+    width: 100%;
+    list-style: circle;
+}
